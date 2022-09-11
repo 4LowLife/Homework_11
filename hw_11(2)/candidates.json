@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://kuda-mo.ru/uploads/50cd320b2ab6d8579aea1979ee5d5ef1.jpeg",
+    "position": "Go разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Sheri Torres",
+    "picture": "https://i.pinimg.com/originals/f5/2b/d3/f52bd359811906fb22cfd652a6760cb1.jpg",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "picture": "https://vsegda-pomnim.com/uploads/posts/2022-04/1649121487_9-vsegda-pomnim-com-p-samie-krasivie-mesta-prirodi-foto-9.jpg",
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+  {
+    "id": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://cdn.fishki.net/upload/post/2018/02/21/2518153/tn/9149a7d7b83cfdaf36ae299407b4b8ef.jpg",
+    "position": "CTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  },
+  {
+    "id": 5,
+    "name": "Day Holloway",
+    "picture": "https://cdn.fishki.net/upload/post/201409/17/1305473/1bba5443b6d702eeff41c486f42922a5.jpg",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, spam, spam, spam"
+  },
+  {
+    "id": 6,
+    "name": "Austin Cochran",
+    "picture": "https://bigpicture.ru/wp-content/uploads/2019/12/mostinsta03.jpg",
+    "position": "python-develop",
+    "gender": "male",
+    "age": 26,
+    "skills": "python, html"
+  },
+  {
+    "id": 7,
+    "name": "Sheree Love",
+    "picture": "https://travelata-a.akamaihd.net/thumbs/1920x1080/upload/2014_47/content_hotel_56fe0d21550f95.15971398.jpg",
+    "position": "Django developer",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask"
+  }
+]
